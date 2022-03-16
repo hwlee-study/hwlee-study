@@ -1,14 +1,13 @@
 # HyeWonLee
+<a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-dd0b78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<a href="https://hwlee.notion.site/62cefb86e49446ffbbe40d83f1cd6626" target="_blank"><img src="https://img.shields.io/badge/Resume-ede2c2?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="mailto:hwlee8042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwlee8042@gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ### ☀️ About Me
 - 안녕하세요👋   **포기하지 않고 꾸준히 노력하는 개발자** 이혜원입니다.
 - 사용하기 편리한 서비스 개발을 위해 상대를 배려하는 대화로 협업하는 것을 좋아합니다.
 - 더 나은 아키텍처와 코드 작성을 지향하기에 한 줄의 코드라도 신경쓰며 개발하려고 노력합니다.
 - 3년간 백엔드 개발자 경험으로 상세한 설계와 문서화로 업무 정리를 할 수 있습니다.
-
-### 🗂 Resume & Blog 
-- [Notion 이력서](https://hwlee.notion.site/62cefb86e49446ffbbe40d83f1cd6626)
-- [소소한 기록](https://velog.io/@hwlee8042)
 
 ### 🛠 Tech Stack
 #### Frontend
