@@ -1,7 +1,7 @@
 # HyeWonLee
-<a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-dd0b78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://hwlee.notion.site/62cefb86e49446ffbbe40d83f1cd6626" target="_blank"><img src="https://img.shields.io/badge/Resume-ede2c2?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="mailto:hwlee8042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwlee8042@gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:hwlee8042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwlee8042@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ### ☀️ About Me
 - 안녕하세요👋   **포기하지 않고 꾸준히 노력하는 개발자** 이혜원입니다.
