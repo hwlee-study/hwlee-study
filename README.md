@@ -1,6 +1,6 @@
 # HyeWonLee
 <a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://hwlee.notion.site/08de7d1fb66b4364847ae188b4603aa3" target="_blank"><img src="https://img.shields.io/badge/Resume-ede2c2?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://hwlee.notion.site/92e84da8e90c4bc4bcf6b081508ed3ee" target="_blank"><img src="https://img.shields.io/badge/Resume-ede2c2?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="mailto:hwlee8042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwlee8042@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ### ☀️ About Me
