@@ -1,5 +1,5 @@
 # HyeWonLee
-<a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<!-- <a href="https://velog.io/@hwlee8042/" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <a href="https://hwlee.notion.site/92e84da8e90c4bc4bcf6b081508ed3ee" target="_blank"><img src="https://img.shields.io/badge/Resume-ede2c2?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="mailto:hwlee8042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwlee8042@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -11,14 +11,15 @@
 
 ### 🛠 Tech Stack
 #### Frontend
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 
 10px;"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 
+<a><img src="https://img.shields.io/badge/TanstackQuery-764ABC?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 
 10px;"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br>
+### 🛠 Before Tech Stack
 #### DevOps
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
