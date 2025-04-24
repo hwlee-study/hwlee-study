@@ -1,16 +1,18 @@
 <div align="center">
-  <a href="https://www.figma.com/board/JzXAlG10RDv9FQ88Yi3MrW/%EC%9D%B4%ED%98%9C%EC%9B%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=92-1095&t=PFR1eE8SBUZE7NGV-1">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=✋🏻hello&fontSize=50&animation=blinking" />
-  </a>
+  <p>
+    <a href="https://www.figma.com/board/JzXAlG10RDv9FQ88Yi3MrW/%EC%9D%B4%ED%98%9C%EC%9B%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=92-1095&t=PFR1eE8SBUZE7NGV-1">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=✋🏻hello&fontSize=50&animation=blinking" />
+    </a>
+  </p>
   <br />
-  <p align="center"><b>🛠 Tech Stack</b></p>
-  <p align="center">
+  <p><b>🛠 Tech Stack</b></p>
+  <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>&nbsp;
   </p>
   <br />
-  <p align="center"><b>📈 GiHub Stats</b></p>
-  <p align="center">
+  <p><b>📈 GiHub Stats</b></p>
+  <p>
     <table>
       <tr>
         <td align="top" width="50%">
