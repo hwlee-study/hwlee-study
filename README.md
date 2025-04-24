@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://www.figma.com/board/JzXAlG10RDv9FQ88Yi3MrW/%EC%9D%B4%ED%98%9C%EC%9B%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=92-1095&t=PFR1eE8SBUZE7NGV-1">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=✋🏻반갑습니다,&nbsp;저는&nbsp;이혜원입니다.&fontSize=45&animation=blinking" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=✋🏻Hello,&nbsp;I'm&nbsp;HyeWon&fontSize=45&animation=blinking" />
     </a>
   </p>
   <br />
